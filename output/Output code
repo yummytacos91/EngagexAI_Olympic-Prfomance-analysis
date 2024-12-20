@@ -1,0 +1,24 @@
+ Dataset loaded successfully! 🚀
+/tmp/ipykernel_24/4020345180.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_medals['Year'] = df_medals['Year'].astype(int)
+ Dataset loaded successfully! 🚀
+/tmp/ipykernel_24/4020345180.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_medals['Year'] = df_medals['Year'].astype(int)
+
+
+🏅 Top 5 Medal-Winning Countries of All Time:
+NOC
+USA    5637
+URS    2503
+GER    2165
+GBR    2068
+FRA    1777
+Name: count, dtype: int64
